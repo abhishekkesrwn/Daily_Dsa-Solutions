@@ -1,4 +1,4 @@
-# Daily_Dsa-Solutions
+# Daily_Dsa_Solutions
 # DSA Solutions — Java
 
 Solving Data Structures and Algorithms problems daily 
