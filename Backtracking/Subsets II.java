@@ -7,7 +7,7 @@
  *
  * Key Insight:skip the duplicates after adding one of them : if(i >idx && nums[i] == nums[i-1])
  * Time: O(N * 2^N)
- * Space: O(V)
+ * Space: O(N)
  */
 
 
