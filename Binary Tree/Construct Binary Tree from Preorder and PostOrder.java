@@ -5,7 +5,8 @@
  * Pattern: Recursion
  * Solve Type: self 
  *
- * Key Insight: use greedy approach to sell every time when seen a price greater than current buying price and update bp after selling
+ * Key Insight: from preorder we get root then find corresponding index in inorder recursively create new root and left subtree includes 
+                 all the left part from the root and similar for right subtree
 
  * Time: O(N)
  * Space: O(N)
