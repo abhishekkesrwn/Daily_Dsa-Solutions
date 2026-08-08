@@ -7,8 +7,8 @@
  * Solve Type: Self 
  *
  * Key Insight: explore all the paths to find the maxPathLength, return if base condition or in case of hurdle
- * Time: O(N)
- * Space: O(1)
+ * Time: O(4 ^(n+m)
+ * Space: O(N) //call stack
  */
 class Solution {
 	int maxLength;
